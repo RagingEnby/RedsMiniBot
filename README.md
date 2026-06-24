@@ -1,2 +1,3 @@
 # Archival Note
 I’m leaving this note here to provide more context about this project. This was my very first JavaScript project, created in 2021. It was a very small proof of concept, but I happened to upload it to GitHub. For my college portfolio, I’m required to show proof that I have been studying in this field for 5+ years. Although this project is very simple, it still serves as that proof, which is why it is now public.
+(also the bot token in config.json is no longer active, it's fine)
